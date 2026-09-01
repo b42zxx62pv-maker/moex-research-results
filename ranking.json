@@ -1,33 +1,5 @@
 [
   {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":15,
-      "vol_target":0.12,
-      "cost_bp":8
-    },
-    "full_sharpe":0.3688,
-    "full_max_dd":-0.207875,
-    "oos_sharpe":1.4739,
-    "oos_max_dd":-0.073483,
-    "oos_cagr":0.190001
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":15,
-      "vol_target":0.08,
-      "cost_bp":8
-    },
-    "full_sharpe":0.3545,
-    "full_max_dd":-0.142907,
-    "oos_sharpe":1.425,
-    "oos_max_dd":-0.049411,
-    "oos_cagr":0.125767
-  },
-  {
     "asset":"USDRUBF",
     "family":"momentum",
     "params":{
@@ -35,39 +7,25 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":1.2249,
+    "full_sharpe":1.2388,
     "full_max_dd":-0.128618,
-    "oos_sharpe":1.4229,
+    "oos_sharpe":1.47,
     "oos_max_dd":-0.06707,
-    "oos_cagr":0.127228
+    "oos_cagr":0.131844
   },
   {
     "asset":"IMOEXF",
     "family":"momentum",
     "params":{
       "lookback":15,
-      "vol_target":0.1,
+      "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":0.3612,
-    "full_max_dd":-0.175913,
-    "oos_sharpe":1.4228,
-    "oos_max_dd":-0.061499,
-    "oos_cagr":0.157545
-  },
-  {
-    "asset":"USDRUBF",
-    "family":"momentum",
-    "params":{
-      "lookback":20,
-      "vol_target":0.1,
-      "cost_bp":8
-    },
-    "full_sharpe":1.2138,
-    "full_max_dd":-0.145771,
-    "oos_sharpe":1.3713,
-    "oos_max_dd":-0.081316,
-    "oos_cagr":0.14851
+    "full_sharpe":0.3813,
+    "full_max_dd":-0.207875,
+    "oos_sharpe":1.432,
+    "oos_max_dd":-0.073483,
+    "oos_cagr":0.183429
   },
   {
     "asset":"USDRUBF",
@@ -77,11 +35,53 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":1.1892,
+    "full_sharpe":1.2045,
     "full_max_dd":-0.166406,
-    "oos_sharpe":1.3696,
+    "oos_sharpe":1.4209,
     "oos_max_dd":-0.092324,
-    "oos_cagr":0.169955
+    "oos_cagr":0.177218
+  },
+  {
+    "asset":"USDRUBF",
+    "family":"momentum",
+    "params":{
+      "lookback":20,
+      "vol_target":0.1,
+      "cost_bp":8
+    },
+    "full_sharpe":1.2282,
+    "full_max_dd":-0.145771,
+    "oos_sharpe":1.4202,
+    "oos_max_dd":-0.081316,
+    "oos_cagr":0.154426
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":15,
+      "vol_target":0.08,
+      "cost_bp":8
+    },
+    "full_sharpe":0.3664,
+    "full_max_dd":-0.142907,
+    "oos_sharpe":1.3845,
+    "oos_max_dd":-0.049411,
+    "oos_cagr":0.121608
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":15,
+      "vol_target":0.1,
+      "cost_bp":8
+    },
+    "full_sharpe":0.3734,
+    "full_max_dd":-0.175913,
+    "oos_sharpe":1.3823,
+    "oos_max_dd":-0.061499,
+    "oos_cagr":0.152209
   },
   {
     "asset":"USDRUBF",
@@ -91,11 +91,11 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":0.8367,
+    "full_sharpe":0.8493,
     "full_max_dd":-0.270903,
-    "oos_sharpe":1.322,
+    "oos_sharpe":1.372,
     "oos_max_dd":-0.104047,
-    "oos_cagr":0.18733
+    "oos_cagr":0.195515
   },
   {
     "asset":"CNYRUBF",
@@ -105,11 +105,11 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":1.3378,
+    "full_sharpe":1.3508,
     "full_max_dd":-0.106829,
-    "oos_sharpe":1.0467,
+    "oos_sharpe":1.0916,
     "oos_max_dd":-0.074511,
-    "oos_cagr":0.093551
+    "oos_cagr":0.097919
   },
   {
     "asset":"CNYRUBF",
@@ -119,11 +119,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":1.3382,
+    "full_sharpe":1.3517,
     "full_max_dd":-0.120445,
-    "oos_sharpe":1.0175,
+    "oos_sharpe":1.0642,
     "oos_max_dd":-0.090898,
-    "oos_cagr":0.109067
+    "oos_cagr":0.11463
   },
   {
     "asset":"USDRUBF",
@@ -133,11 +133,11 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":1.286,
+    "full_sharpe":1.2999,
     "full_max_dd":-0.105517,
-    "oos_sharpe":1.0006,
+    "oos_sharpe":1.0493,
     "oos_max_dd":-0.072397,
-    "oos_cagr":0.085961
+    "oos_cagr":0.090531
   },
   {
     "asset":"CNYRUBF",
@@ -147,11 +147,11 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":1.3232,
+    "full_sharpe":1.3376,
     "full_max_dd":-0.1295,
-    "oos_sharpe":0.9978,
+    "oos_sharpe":1.0468,
     "oos_max_dd":-0.10385,
-    "oos_cagr":0.12195
+    "oos_cagr":0.128732
   },
   {
     "asset":"USDRUBF",
@@ -161,11 +161,11 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":1.2547,
+    "full_sharpe":1.2699,
     "full_max_dd":-0.150859,
-    "oos_sharpe":0.9537,
+    "oos_sharpe":1.0065,
     "oos_max_dd":-0.10248,
-    "oos_cagr":0.112507
+    "oos_cagr":0.119583
   },
   {
     "asset":"USDRUBF",
@@ -175,25 +175,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":1.2664,
+    "full_sharpe":1.2808,
     "full_max_dd":-0.130517,
-    "oos_sharpe":0.951,
+    "oos_sharpe":1.0014,
     "oos_max_dd":-0.089217,
-    "oos_cagr":0.098305
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":15,
-      "vol_target":null,
-      "cost_bp":8
-    },
-    "full_sharpe":-0.0002,
-    "full_max_dd":-0.420619,
-    "oos_sharpe":0.9269,
-    "oos_max_dd":-0.207545,
-    "oos_cagr":0.197601
+    "oos_cagr":0.104111
   },
   {
     "asset":"USDRUBF",
@@ -203,25 +189,11 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":1.045,
+    "full_sharpe":1.0604,
     "full_max_dd":-0.124963,
-    "oos_sharpe":0.8827,
+    "oos_sharpe":0.9357,
     "oos_max_dd":-0.096831,
-    "oos_cagr":0.103431
-  },
-  {
-    "asset":"USDRUBF",
-    "family":"momentum",
-    "params":{
-      "lookback":25,
-      "vol_target":0.08,
-      "cost_bp":8
-    },
-    "full_sharpe":1.066,
-    "full_max_dd":-0.097559,
-    "oos_sharpe":0.8748,
-    "oos_max_dd":-0.07025,
-    "oos_cagr":0.074619
+    "oos_cagr":0.110477
   },
   {
     "asset":"USDRUBF",
@@ -231,11 +203,25 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":0.7358,
+    "full_sharpe":0.7488,
     "full_max_dd":-0.328241,
-    "oos_sharpe":0.8733,
+    "oos_sharpe":0.9248,
     "oos_max_dd":-0.113747,
-    "oos_cagr":0.116143
+    "oos_cagr":0.124047
+  },
+  {
+    "asset":"USDRUBF",
+    "family":"momentum",
+    "params":{
+      "lookback":25,
+      "vol_target":0.08,
+      "cost_bp":8
+    },
+    "full_sharpe":1.08,
+    "full_max_dd":-0.097559,
+    "oos_sharpe":0.9236,
+    "oos_max_dd":-0.07025,
+    "oos_cagr":0.079175
   },
   {
     "asset":"USDRUBF",
@@ -245,11 +231,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":1.0554,
+    "full_sharpe":1.0699,
     "full_max_dd":-0.111952,
-    "oos_sharpe":0.8708,
+    "oos_sharpe":0.9213,
     "oos_max_dd":-0.085371,
-    "oos_cagr":0.089472
+    "oos_cagr":0.095259
   },
   {
     "asset":"CNYRUBF",
@@ -259,25 +245,11 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":0.9434,
+    "full_sharpe":0.9567,
     "full_max_dd":-0.107649,
-    "oos_sharpe":0.8369,
+    "oos_sharpe":0.8825,
     "oos_max_dd":-0.106866,
-    "oos_cagr":0.073085
-  },
-  {
-    "asset":"CNYRUBF",
-    "family":"momentum",
-    "params":{
-      "lookback":20,
-      "vol_target":null,
-      "cost_bp":8
-    },
-    "full_sharpe":1.0849,
-    "full_max_dd":-0.165655,
-    "oos_sharpe":0.8319,
-    "oos_max_dd":-0.122505,
-    "oos_cagr":0.116398
+    "oos_cagr":0.077432
   },
   {
     "asset":"USDRUBF",
@@ -287,11 +259,39 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":0.746,
+    "full_sharpe":0.7588,
     "full_max_dd":-0.238884,
-    "oos_sharpe":0.8307,
+    "oos_sharpe":0.8822,
     "oos_max_dd":-0.106022,
-    "oos_cagr":0.109941
+    "oos_cagr":0.11782
+  },
+  {
+    "asset":"CNYRUBF",
+    "family":"momentum",
+    "params":{
+      "lookback":20,
+      "vol_target":null,
+      "cost_bp":8
+    },
+    "full_sharpe":1.0965,
+    "full_max_dd":-0.165655,
+    "oos_sharpe":0.8779,
+    "oos_max_dd":-0.122505,
+    "oos_cagr":0.123838
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":15,
+      "vol_target":null,
+      "cost_bp":8
+    },
+    "full_sharpe":0.021,
+    "full_max_dd":-0.420619,
+    "oos_sharpe":0.8571,
+    "oos_max_dd":-0.207545,
+    "oos_cagr":0.178169
   },
   {
     "asset":"CNYRUBF",
@@ -301,11 +301,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":0.9035,
+    "full_sharpe":0.9174,
     "full_max_dd":-0.142805,
-    "oos_sharpe":0.7893,
+    "oos_sharpe":0.8367,
     "oos_max_dd":-0.132342,
-    "oos_cagr":0.082106
+    "oos_cagr":0.087615
   },
   {
     "asset":"USDRUBF",
@@ -315,11 +315,11 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":0.232,
+    "full_sharpe":0.2446,
     "full_max_dd":-0.362301,
-    "oos_sharpe":0.7814,
+    "oos_sharpe":0.8328,
     "oos_max_dd":-0.144544,
-    "oos_cagr":0.103022
+    "oos_cagr":0.110872
   },
   {
     "asset":"USDRUBF",
@@ -329,11 +329,11 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":0.7902,
+    "full_sharpe":0.8057,
     "full_max_dd":-0.190847,
-    "oos_sharpe":0.7652,
+    "oos_sharpe":0.8182,
     "oos_max_dd":-0.131462,
-    "oos_cagr":0.088534
+    "oos_cagr":0.09553
   },
   {
     "asset":"USDRUBF",
@@ -342,11 +342,11 @@
       "window":20,
       "cost_bp":8
     },
-    "full_sharpe":0.6722,
+    "full_sharpe":0.6852,
     "full_max_dd":-0.293313,
-    "oos_sharpe":0.758,
+    "oos_sharpe":0.8097,
     "oos_max_dd":-0.08886,
-    "oos_cagr":0.098969
+    "oos_cagr":0.106803
   },
   {
     "asset":"USDRUBF",
@@ -356,11 +356,11 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":0.8331,
+    "full_sharpe":0.8473,
     "full_max_dd":-0.152499,
-    "oos_sharpe":0.7429,
+    "oos_sharpe":0.7918,
     "oos_max_dd":-0.095666,
-    "oos_cagr":0.062834
+    "oos_cagr":0.067376
   },
   {
     "asset":"USDRUBF",
@@ -370,11 +370,11 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":1.3259,
+    "full_sharpe":1.3396,
     "full_max_dd":-0.094748,
-    "oos_sharpe":0.7411,
+    "oos_sharpe":0.79,
     "oos_max_dd":-0.094748,
-    "oos_cagr":0.062708
+    "oos_cagr":0.06725
   },
   {
     "asset":"CNYRUBF",
@@ -384,11 +384,11 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":0.8222,
+    "full_sharpe":0.837,
     "full_max_dd":-0.177095,
-    "oos_sharpe":0.7377,
+    "oos_sharpe":0.7875,
     "oos_max_dd":-0.155033,
-    "oos_cagr":0.086619
+    "oos_cagr":0.093294
   },
   {
     "asset":"USDRUBF",
@@ -398,11 +398,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":0.8283,
+    "full_sharpe":0.843,
     "full_max_dd":-0.171696,
-    "oos_sharpe":0.7327,
+    "oos_sharpe":0.7832,
     "oos_max_dd":-0.117051,
-    "oos_cagr":0.074282
+    "oos_cagr":0.080033
   },
   {
     "asset":"USDRUBF",
@@ -412,25 +412,11 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":0.5533,
+    "full_sharpe":0.5656,
     "full_max_dd":-0.272291,
-    "oos_sharpe":0.7183,
+    "oos_sharpe":0.77,
     "oos_max_dd":-0.147277,
-    "oos_cagr":0.093479
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":40,
-      "vol_target":0.12,
-      "cost_bp":8
-    },
-    "full_sharpe":0.1265,
-    "full_max_dd":-0.274006,
-    "oos_sharpe":0.7121,
-    "oos_max_dd":-0.097031,
-    "oos_cagr":0.084328
+    "oos_cagr":0.10129
   },
   {
     "asset":"USDRUBF",
@@ -440,11 +426,11 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":1.2228,
+    "full_sharpe":1.2379,
     "full_max_dd":-0.131755,
-    "oos_sharpe":0.7096,
+    "oos_sharpe":0.7628,
     "oos_max_dd":-0.131755,
-    "oos_cagr":0.081322
+    "oos_cagr":0.088293
   },
   {
     "asset":"USDRUBF",
@@ -454,11 +440,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":1.2852,
+    "full_sharpe":1.2995,
     "full_max_dd":-0.115921,
-    "oos_sharpe":0.7042,
+    "oos_sharpe":0.7549,
     "oos_max_dd":-0.115921,
-    "oos_cagr":0.071098
+    "oos_cagr":0.076842
   },
   {
     "asset":"USDRUBF",
@@ -468,53 +454,25 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":1.449,
+    "full_sharpe":1.4627,
     "full_max_dd":-0.113629,
-    "oos_sharpe":0.6552,
+    "oos_sharpe":0.7048,
     "oos_max_dd":-0.095929,
-    "oos_cagr":0.054229
+    "oos_cagr":0.05876
   },
   {
     "asset":"IMOEXF",
     "family":"momentum",
     "params":{
       "lookback":40,
-      "vol_target":0.1,
+      "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":0.1147,
-    "full_max_dd":-0.240411,
-    "oos_sharpe":0.6381,
-    "oos_max_dd":-0.090399,
-    "oos_cagr":0.065154
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":40,
-      "vol_target":0.08,
-      "cost_bp":8
-    },
-    "full_sharpe":0.1153,
-    "full_max_dd":-0.196613,
-    "oos_sharpe":0.6295,
-    "oos_max_dd":-0.073168,
-    "oos_cagr":0.052124
-  },
-  {
-    "asset":"CNYRUBF",
-    "family":"momentum",
-    "params":{
-      "lookback":10,
-      "vol_target":null,
-      "cost_bp":8
-    },
-    "full_sharpe":0.3958,
-    "full_max_dd":-0.267127,
-    "oos_sharpe":0.6106,
-    "oos_max_dd":-0.181702,
-    "oos_cagr":0.081132
+    "full_sharpe":0.1393,
+    "full_max_dd":-0.274006,
+    "oos_sharpe":0.6689,
+    "oos_max_dd":-0.094364,
+    "oos_cagr":0.07834
   },
   {
     "asset":"USDRUBF",
@@ -524,11 +482,25 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":1.4251,
+    "full_sharpe":1.4402,
     "full_max_dd":-0.143014,
-    "oos_sharpe":0.608,
+    "oos_sharpe":0.6619,
     "oos_max_dd":-0.125412,
-    "oos_cagr":0.067686
+    "oos_cagr":0.07461
+  },
+  {
+    "asset":"CNYRUBF",
+    "family":"momentum",
+    "params":{
+      "lookback":10,
+      "vol_target":null,
+      "cost_bp":8
+    },
+    "full_sharpe":0.4074,
+    "full_max_dd":-0.267127,
+    "oos_sharpe":0.6571,
+    "oos_max_dd":-0.181702,
+    "oos_cagr":0.088442
   },
   {
     "asset":"USDRUBF",
@@ -538,11 +510,11 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":1.0738,
+    "full_sharpe":1.0864,
     "full_max_dd":-0.191932,
-    "oos_sharpe":0.6006,
+    "oos_sharpe":0.6529,
     "oos_max_dd":-0.13751,
-    "oos_cagr":0.075474
+    "oos_cagr":0.08321
   },
   {
     "asset":"USDRUBF",
@@ -552,11 +524,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":1.4315,
+    "full_sharpe":1.4457,
     "full_max_dd":-0.130662,
-    "oos_sharpe":0.5933,
+    "oos_sharpe":0.6447,
     "oos_max_dd":-0.11685,
-    "oos_cagr":0.058176
+    "oos_cagr":0.063889
   },
   {
     "asset":"CNYRUBF",
@@ -566,11 +538,11 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":1.3823,
+    "full_sharpe":1.3953,
     "full_max_dd":-0.093591,
-    "oos_sharpe":0.5919,
+    "oos_sharpe":0.6381,
     "oos_max_dd":-0.093591,
-    "oos_cagr":0.050002
+    "oos_cagr":0.054324
   },
   {
     "asset":"CNYRUBF",
@@ -580,11 +552,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":1.3677,
+    "full_sharpe":1.3812,
     "full_max_dd":-0.114249,
-    "oos_sharpe":0.5892,
+    "oos_sharpe":0.6372,
     "oos_max_dd":-0.114249,
-    "oos_cagr":0.059108
+    "oos_cagr":0.064568
   },
   {
     "asset":"CNYRUBF",
@@ -594,11 +566,11 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":1.3425,
+    "full_sharpe":1.3569,
     "full_max_dd":-0.131294,
-    "oos_sharpe":0.5757,
+    "oos_sharpe":0.6261,
     "oos_max_dd":-0.131294,
-    "oos_cagr":0.065113
+    "oos_cagr":0.071719
   },
   {
     "asset":"USDRUBF",
@@ -608,11 +580,11 @@
       "slow":40,
       "cost_bp":8
     },
-    "full_sharpe":0.5505,
+    "full_sharpe":0.5636,
     "full_max_dd":-0.334074,
-    "oos_sharpe":0.5695,
+    "oos_sharpe":0.6219,
     "oos_max_dd":-0.102878,
-    "oos_cagr":0.070898
+    "oos_cagr":0.078616
   },
   {
     "asset":"CNYRUBF",
@@ -622,25 +594,39 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":0.4138,
+    "full_sharpe":0.4289,
     "full_max_dd":-0.253252,
-    "oos_sharpe":0.5563,
+    "oos_sharpe":0.6066,
     "oos_max_dd":-0.149372,
-    "oos_cagr":0.062638
+    "oos_cagr":0.069237
   },
   {
     "asset":"IMOEXF",
     "family":"momentum",
     "params":{
       "lookback":40,
-      "vol_target":null,
+      "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":0.0603,
-    "full_max_dd":-0.405514,
-    "oos_sharpe":0.5521,
-    "oos_max_dd":-0.16141,
-    "oos_cagr":0.102851
+    "full_sharpe":0.1272,
+    "full_max_dd":-0.240411,
+    "oos_sharpe":0.5964,
+    "oos_max_dd":-0.088161,
+    "oos_cagr":0.060243
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":40,
+      "vol_target":0.08,
+      "cost_bp":8
+    },
+    "full_sharpe":0.1275,
+    "full_max_dd":-0.196613,
+    "oos_sharpe":0.5879,
+    "oos_max_dd":-0.071345,
+    "oos_cagr":0.048238
   },
   {
     "asset":"CNYRUBF",
@@ -650,25 +636,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":0.4598,
+    "full_sharpe":0.4739,
     "full_max_dd":-0.226008,
-    "oos_sharpe":0.5245,
+    "oos_sharpe":0.5726,
     "oos_max_dd":-0.131449,
-    "oos_cagr":0.051834
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"sma",
-    "params":{
-      "fast":20,
-      "slow":80,
-      "cost_bp":8
-    },
-    "full_sharpe":0.0618,
-    "full_max_dd":-0.385692,
-    "oos_sharpe":0.5205,
-    "oos_max_dd":-0.16141,
-    "oos_cagr":0.09506
+    "oos_cagr":0.057279
   },
   {
     "asset":"CNYRUBF",
@@ -678,11 +650,11 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":0.465,
+    "full_sharpe":0.4786,
     "full_max_dd":-0.190354,
-    "oos_sharpe":0.4943,
+    "oos_sharpe":0.5407,
     "oos_max_dd":-0.107493,
-    "oos_cagr":0.040933
+    "oos_cagr":0.045245
   },
   {
     "asset":"CNYRUBF",
@@ -692,11 +664,11 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":-0.3325,
+    "full_sharpe":-0.3204,
     "full_max_dd":-0.494006,
-    "oos_sharpe":0.4842,
+    "oos_sharpe":0.5311,
     "oos_max_dd":-0.172848,
-    "oos_cagr":0.061454
+    "oos_cagr":0.068689
   },
   {
     "asset":"CNYRUBF",
@@ -706,39 +678,11 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":1.2101,
+    "full_sharpe":1.2217,
     "full_max_dd":-0.190203,
-    "oos_sharpe":0.4822,
+    "oos_sharpe":0.5292,
     "oos_max_dd":-0.145992,
-    "oos_cagr":0.061056
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":30,
-      "vol_target":0.12,
-      "cost_bp":8
-    },
-    "full_sharpe":0.1525,
-    "full_max_dd":-0.265085,
-    "oos_sharpe":0.4784,
-    "oos_max_dd":-0.107222,
-    "oos_cagr":0.053253
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"sma",
-    "params":{
-      "fast":10,
-      "slow":40,
-      "cost_bp":8
-    },
-    "full_sharpe":0.3727,
-    "full_max_dd":-0.280125,
-    "oos_sharpe":0.4736,
-    "oos_max_dd":-0.204266,
-    "oos_cagr":0.083586
+    "oos_cagr":0.068291
   },
   {
     "asset":"CNYRUBF",
@@ -748,67 +692,39 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":0.6929,
+    "full_sharpe":0.7064,
     "full_max_dd":-0.162779,
-    "oos_sharpe":0.449,
+    "oos_sharpe":0.4958,
     "oos_max_dd":-0.113334,
-    "oos_cagr":0.036589
+    "oos_cagr":0.040896
   },
   {
     "asset":"IMOEXF",
     "family":"momentum",
     "params":{
-      "lookback":60,
-      "vol_target":0.12,
+      "lookback":40,
+      "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":-0.0072,
-    "full_max_dd":-0.307582,
-    "oos_sharpe":0.4148,
-    "oos_max_dd":-0.125027,
-    "oos_cagr":0.04485
+    "full_sharpe":0.0816,
+    "full_max_dd":-0.405514,
+    "oos_sharpe":0.48,
+    "oos_max_dd":-0.16141,
+    "oos_cagr":0.084957
   },
   {
     "asset":"IMOEXF",
-    "family":"momentum",
+    "family":"sma",
     "params":{
-      "lookback":25,
-      "vol_target":0.12,
+      "fast":20,
+      "slow":80,
       "cost_bp":8
     },
-    "full_sharpe":0.9029,
-    "full_max_dd":-0.13524,
-    "oos_sharpe":0.4066,
-    "oos_max_dd":-0.121633,
-    "oos_cagr":0.043763
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":20,
-      "vol_target":0.12,
-      "cost_bp":8
-    },
-    "full_sharpe":0.8627,
-    "full_max_dd":-0.125321,
-    "oos_sharpe":0.4043,
-    "oos_max_dd":-0.095244,
-    "oos_cagr":0.043505
-  },
-  {
-    "asset":"CNYRUBF",
-    "family":"momentum",
-    "params":{
-      "lookback":30,
-      "vol_target":0.08,
-      "cost_bp":8
-    },
-    "full_sharpe":0.8847,
-    "full_max_dd":-0.127824,
-    "oos_sharpe":0.3971,
-    "oos_max_dd":-0.127824,
-    "oos_cagr":0.031804
+    "full_sharpe":0.0831,
+    "full_max_dd":-0.385692,
+    "oos_sharpe":0.4481,
+    "oos_max_dd":-0.16141,
+    "oos_cagr":0.077292
   },
   {
     "asset":"CNYRUBF",
@@ -818,39 +734,25 @@
       "slow":80,
       "cost_bp":8
     },
-    "full_sharpe":0.9321,
+    "full_sharpe":0.9456,
     "full_max_dd":-0.174962,
-    "oos_sharpe":0.397,
+    "oos_sharpe":0.4443,
     "oos_max_dd":-0.174962,
-    "oos_cagr":0.048032
+    "oos_cagr":0.055216
   },
   {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":30,
-      "vol_target":0.1,
-      "cost_bp":8
-    },
-    "full_sharpe":0.1504,
-    "full_max_dd":-0.234538,
-    "oos_sharpe":0.3866,
-    "oos_max_dd":-0.101186,
-    "oos_cagr":0.036636
-  },
-  {
-    "asset":"IMOEXF",
+    "asset":"CNYRUBF",
     "family":"momentum",
     "params":{
       "lookback":30,
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":0.1858,
-    "full_max_dd":-0.191446,
-    "oos_sharpe":0.3822,
-    "oos_max_dd":-0.081739,
-    "oos_cagr":0.029839
+    "full_sharpe":0.898,
+    "full_max_dd":-0.127824,
+    "oos_sharpe":0.4441,
+    "oos_max_dd":-0.127824,
+    "oos_cagr":0.036106
   },
   {
     "asset":"CNYRUBF",
@@ -860,95 +762,25 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":0.6799,
+    "full_sharpe":0.694,
     "full_max_dd":-0.189015,
-    "oos_sharpe":0.3812,
+    "oos_sharpe":0.4299,
     "oos_max_dd":-0.138635,
-    "oos_cagr":0.035685
+    "oos_cagr":0.041094
   },
   {
     "asset":"IMOEXF",
-    "family":"momentum",
+    "family":"sma",
     "params":{
-      "lookback":25,
-      "vol_target":0.08,
+      "fast":10,
+      "slow":40,
       "cost_bp":8
     },
-    "full_sharpe":0.9215,
-    "full_max_dd":-0.091731,
-    "oos_sharpe":0.3767,
-    "oos_max_dd":-0.082635,
-    "oos_cagr":0.029268
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":25,
-      "vol_target":0.1,
-      "cost_bp":8
-    },
-    "full_sharpe":0.9001,
-    "full_max_dd":-0.11368,
-    "oos_sharpe":0.3716,
-    "oos_max_dd":-0.102322,
-    "oos_cagr":0.034863
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":20,
-      "vol_target":0.08,
-      "cost_bp":8
-    },
-    "full_sharpe":0.8447,
-    "full_max_dd":-0.089908,
-    "oos_sharpe":0.3654,
-    "oos_max_dd":-0.070211,
-    "oos_cagr":0.02829
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":20,
-      "vol_target":0.1,
-      "cost_bp":8
-    },
-    "full_sharpe":0.8426,
-    "full_max_dd":-0.111907,
-    "oos_sharpe":0.3603,
-    "oos_max_dd":-0.087174,
-    "oos_cagr":0.033632
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":60,
-      "vol_target":null,
-      "cost_bp":8
-    },
-    "full_sharpe":-0.2998,
-    "full_max_dd":-0.509907,
-    "oos_sharpe":0.3434,
-    "oos_max_dd":-0.173491,
-    "oos_cagr":0.053012
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":30,
-      "vol_target":null,
-      "cost_bp":8
-    },
-    "full_sharpe":-0.1005,
-    "full_max_dd":-0.452141,
-    "oos_sharpe":0.3404,
-    "oos_max_dd":-0.190604,
-    "oos_cagr":0.052457
+    "full_sharpe":0.3936,
+    "full_max_dd":-0.280125,
+    "oos_sharpe":0.4007,
+    "oos_max_dd":-0.204266,
+    "oos_cagr":0.066004
   },
   {
     "asset":"CNYRUBF",
@@ -958,11 +790,11 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":0.6758,
+    "full_sharpe":0.6908,
     "full_max_dd":-0.201707,
-    "oos_sharpe":0.3309,
+    "oos_sharpe":0.3821,
     "oos_max_dd":-0.157543,
-    "oos_cagr":0.03359
+    "oos_cagr":0.040096
   },
   {
     "asset":"CNYRUBF",
@@ -972,39 +804,67 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":0.8642,
+    "full_sharpe":0.8781,
     "full_max_dd":-0.15602,
-    "oos_sharpe":0.3306,
+    "oos_sharpe":0.3795,
     "oos_max_dd":-0.15602,
-    "oos_cagr":0.030087
+    "oos_cagr":0.035484
   },
   {
     "asset":"IMOEXF",
     "family":"momentum",
     "params":{
       "lookback":60,
-      "vol_target":0.1,
+      "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":-0.0333,
-    "full_max_dd":-0.271795,
-    "oos_sharpe":0.3247,
-    "oos_max_dd":-0.116208,
-    "oos_cagr":0.029655
+    "full_sharpe":0.0058,
+    "full_max_dd":-0.307582,
+    "oos_sharpe":0.3709,
+    "oos_max_dd":-0.122442,
+    "oos_cagr":0.03908
   },
   {
     "asset":"IMOEXF",
     "family":"momentum",
     "params":{
-      "lookback":60,
-      "vol_target":0.08,
+      "lookback":25,
+      "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":-0.0259,
-    "full_max_dd":-0.224132,
-    "oos_sharpe":0.3042,
-    "oos_max_dd":-0.095118,
-    "oos_cagr":0.022845
+    "full_sharpe":0.915,
+    "full_max_dd":-0.13524,
+    "oos_sharpe":0.3626,
+    "oos_max_dd":-0.121633,
+    "oos_cagr":0.037998
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":20,
+      "vol_target":0.12,
+      "cost_bp":8
+    },
+    "full_sharpe":0.8748,
+    "full_max_dd":-0.125321,
+    "oos_sharpe":0.3604,
+    "oos_max_dd":-0.092571,
+    "oos_cagr":0.037742
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":30,
+      "vol_target":0.12,
+      "cost_bp":8
+    },
+    "full_sharpe":0.1393,
+    "full_max_dd":-0.265085,
+    "oos_sharpe":0.3471,
+    "oos_max_dd":-0.104585,
+    "oos_cagr":0.036102
   },
   {
     "asset":"CNYRUBF",
@@ -1014,11 +874,206 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":0.8506,
+    "full_sharpe":0.8654,
     "full_max_dd":-0.177072,
-    "oos_sharpe":0.2838,
+    "oos_sharpe":0.3352,
     "oos_max_dd":-0.177072,
-    "oos_cagr":0.027628
+    "oos_cagr":0.034114
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":25,
+      "vol_target":0.08,
+      "cost_bp":8
+    },
+    "full_sharpe":0.933,
+    "full_max_dd":-0.091731,
+    "oos_sharpe":0.3345,
+    "oos_max_dd":-0.082635,
+    "oos_cagr":0.025466
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":25,
+      "vol_target":0.1,
+      "cost_bp":8
+    },
+    "full_sharpe":0.9118,
+    "full_max_dd":-0.11368,
+    "oos_sharpe":0.3292,
+    "oos_max_dd":-0.102322,
+    "oos_cagr":0.030092
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":20,
+      "vol_target":0.08,
+      "cost_bp":8
+    },
+    "full_sharpe":0.8563,
+    "full_max_dd":-0.089908,
+    "oos_sharpe":0.3232,
+    "oos_max_dd":-0.068382,
+    "oos_cagr":0.024492
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":20,
+      "vol_target":0.1,
+      "cost_bp":8
+    },
+    "full_sharpe":0.8543,
+    "full_max_dd":-0.111907,
+    "oos_sharpe":0.3179,
+    "oos_max_dd":-0.084928,
+    "oos_cagr":0.028867
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":60,
+      "vol_target":0.1,
+      "cost_bp":8
+    },
+    "full_sharpe":-0.0206,
+    "full_max_dd":-0.271795,
+    "oos_sharpe":0.2822,
+    "oos_max_dd":-0.114033,
+    "oos_cagr":0.024908
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":60,
+      "vol_target":null,
+      "cost_bp":8
+    },
+    "full_sharpe":-0.278,
+    "full_max_dd":-0.509907,
+    "oos_sharpe":0.2697,
+    "oos_max_dd":-0.166081,
+    "oos_cagr":0.035927
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":60,
+      "vol_target":0.08,
+      "cost_bp":8
+    },
+    "full_sharpe":-0.0135,
+    "full_max_dd":-0.224132,
+    "oos_sharpe":0.2618,
+    "oos_max_dd":-0.093337,
+    "oos_cagr":0.019067
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":30,
+      "vol_target":0.1,
+      "cost_bp":8
+    },
+    "full_sharpe":0.1376,
+    "full_max_dd":-0.234538,
+    "oos_sharpe":0.2603,
+    "oos_max_dd":-0.098974,
+    "oos_cagr":0.022544
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":30,
+      "vol_target":0.08,
+      "cost_bp":8
+    },
+    "full_sharpe":0.1733,
+    "full_max_dd":-0.191446,
+    "oos_sharpe":0.2562,
+    "oos_max_dd":-0.079932,
+    "oos_cagr":0.018619
+  },
+  {
+    "asset":"CNYRUBF",
+    "family":"donchian",
+    "params":{
+      "window":20,
+      "cost_bp":8
+    },
+    "full_sharpe":0.7007,
+    "full_max_dd":-0.203344,
+    "oos_sharpe":0.2546,
+    "oos_max_dd":-0.193349,
+    "oos_cagr":0.026735
+  },
+  {
+    "asset":"CNYRUBF",
+    "family":"momentum",
+    "params":{
+      "lookback":40,
+      "vol_target":null,
+      "cost_bp":8
+    },
+    "full_sharpe":0.4396,
+    "full_max_dd":-0.216641,
+    "oos_sharpe":0.2061,
+    "oos_max_dd":-0.19807,
+    "oos_cagr":0.01954
+  },
+  {
+    "asset":"USDRUBF",
+    "family":"momentum",
+    "params":{
+      "lookback":60,
+      "vol_target":0.12,
+      "cost_bp":8
+    },
+    "full_sharpe":0.9368,
+    "full_max_dd":-0.141894,
+    "oos_sharpe":0.2017,
+    "oos_max_dd":-0.141894,
+    "oos_cagr":0.017166
+  },
+  {
+    "asset":"CNYRUBF",
+    "family":"momentum",
+    "params":{
+      "lookback":30,
+      "vol_target":null,
+      "cost_bp":8
+    },
+    "full_sharpe":0.6139,
+    "full_max_dd":-0.229612,
+    "oos_sharpe":0.2002,
+    "oos_max_dd":-0.197167,
+    "oos_cagr":0.018673
+  },
+  {
+    "asset":"USDRUBF",
+    "family":"momentum",
+    "params":{
+      "lookback":60,
+      "vol_target":0.1,
+      "cost_bp":8
+    },
+    "full_sharpe":0.9371,
+    "full_max_dd":-0.125103,
+    "oos_sharpe":0.1745,
+    "oos_max_dd":-0.125103,
+    "oos_cagr":0.0129
   },
   {
     "asset":"IMOEXF",
@@ -1028,80 +1083,11 @@
       "slow":120,
       "cost_bp":8
     },
-    "full_sharpe":-0.2513,
+    "full_sharpe":-0.2294,
     "full_max_dd":-0.419259,
-    "oos_sharpe":0.2475,
-    "oos_max_dd":-0.165297,
-    "oos_cagr":0.030931
-  },
-  {
-    "asset":"CNYRUBF",
-    "family":"donchian",
-    "params":{
-      "window":20,
-      "cost_bp":8
-    },
-    "full_sharpe":0.6871,
-    "full_max_dd":-0.203344,
-    "oos_sharpe":0.2068,
-    "oos_max_dd":-0.193349,
-    "oos_cagr":0.01966
-  },
-  {
-    "asset":"CNYRUBF",
-    "family":"momentum",
-    "params":{
-      "lookback":40,
-      "vol_target":null,
-      "cost_bp":8
-    },
-    "full_sharpe":0.427,
-    "full_max_dd":-0.216641,
-    "oos_sharpe":0.158,
-    "oos_max_dd":-0.19807,
-    "oos_cagr":0.012493
-  },
-  {
-    "asset":"CNYRUBF",
-    "family":"momentum",
-    "params":{
-      "lookback":30,
-      "vol_target":null,
-      "cost_bp":8
-    },
-    "full_sharpe":0.6017,
-    "full_max_dd":-0.229612,
-    "oos_sharpe":0.1521,
-    "oos_max_dd":-0.197167,
-    "oos_cagr":0.01163
-  },
-  {
-    "asset":"USDRUBF",
-    "family":"momentum",
-    "params":{
-      "lookback":60,
-      "vol_target":0.12,
-      "cost_bp":8
-    },
-    "full_sharpe":0.921,
-    "full_max_dd":-0.141894,
-    "oos_sharpe":0.1465,
-    "oos_max_dd":-0.141894,
-    "oos_cagr":0.010445
-  },
-  {
-    "asset":"USDRUBF",
-    "family":"momentum",
-    "params":{
-      "lookback":60,
-      "vol_target":0.1,
-      "cost_bp":8
-    },
-    "full_sharpe":0.9222,
-    "full_max_dd":-0.125103,
-    "oos_sharpe":0.1218,
-    "oos_max_dd":-0.125103,
-    "oos_cagr":0.007311
+    "oos_sharpe":0.1731,
+    "oos_max_dd":-0.16141,
+    "oos_cagr":0.014204
   },
   {
     "asset":"USDRUBF",
@@ -1111,11 +1097,11 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":0.9415,
+    "full_sharpe":0.9558,
     "full_max_dd":-0.102362,
-    "oos_sharpe":0.1179,
+    "oos_sharpe":0.1688,
     "oos_max_dd":-0.102362,
-    "oos_cagr":0.006491
+    "oos_cagr":0.010958
   },
   {
     "asset":"CNYRUBF",
@@ -1125,25 +1111,11 @@
       "slow":40,
       "cost_bp":8
     },
-    "full_sharpe":0.4211,
+    "full_sharpe":0.4335,
     "full_max_dd":-0.239855,
-    "oos_sharpe":0.1138,
+    "oos_sharpe":0.1617,
     "oos_max_dd":-0.209462,
-    "oos_cagr":0.006033
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"sma",
-    "params":{
-      "fast":50,
-      "slow":200,
-      "cost_bp":8
-    },
-    "full_sharpe":-0.5179,
-    "full_max_dd":-0.47727,
-    "oos_sharpe":0.112,
-    "oos_max_dd":-0.172938,
-    "oos_cagr":0.000529
+    "oos_cagr":0.013054
   },
   {
     "asset":"USDRUBF",
@@ -1153,11 +1125,39 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":0.7364,
+    "full_sharpe":0.7507,
     "full_max_dd":-0.182167,
-    "oos_sharpe":0.1033,
+    "oos_sharpe":0.1569,
     "oos_max_dd":-0.182167,
-    "oos_cagr":0.004785
+    "oos_cagr":0.01222
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":30,
+      "vol_target":null,
+      "cost_bp":8
+    },
+    "full_sharpe":-0.1217,
+    "full_max_dd":-0.452141,
+    "oos_sharpe":0.1228,
+    "oos_max_dd":-0.190604,
+    "oos_cagr":0.00296
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"sma",
+    "params":{
+      "fast":50,
+      "slow":200,
+      "cost_bp":8
+    },
+    "full_sharpe":-0.4944,
+    "full_max_dd":-0.47727,
+    "oos_sharpe":0.0367,
+    "oos_max_dd":-0.165524,
+    "oos_cagr":-0.015705
   },
   {
     "asset":"IMOEXF",
@@ -1167,24 +1167,11 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":0.5128,
+    "full_sharpe":0.5334,
     "full_max_dd":-0.243184,
-    "oos_sharpe":0.0133,
+    "oos_sharpe":-0.0625,
     "oos_max_dd":-0.228383,
-    "oos_cagr":-0.021144
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"donchian",
-    "params":{
-      "window":20,
-      "cost_bp":8
-    },
-    "full_sharpe":0.7804,
-    "full_max_dd":-0.246166,
-    "oos_sharpe":-0.0066,
-    "oos_max_dd":-0.246166,
-    "oos_cagr":-0.025461
+    "oos_cagr":-0.037026
   },
   {
     "asset":"IMOEXF",
@@ -1193,25 +1180,11 @@
       "window":55,
       "cost_bp":8
     },
-    "full_sharpe":-0.2482,
+    "full_sharpe":-0.2264,
     "full_max_dd":-0.454869,
-    "oos_sharpe":-0.0261,
-    "oos_max_dd":-0.20707,
-    "oos_cagr":-0.02955
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":25,
-      "vol_target":null,
-      "cost_bp":8
-    },
-    "full_sharpe":0.4251,
-    "full_max_dd":-0.307872,
-    "oos_sharpe":-0.1299,
-    "oos_max_dd":-0.307872,
-    "oos_cagr":-0.051639
+    "oos_sharpe":-0.1024,
+    "oos_max_dd":-0.199962,
+    "oos_cagr":-0.045296
   },
   {
     "asset":"USDRUBF",
@@ -1221,11 +1194,25 @@
       "slow":80,
       "cost_bp":8
     },
-    "full_sharpe":0.6385,
+    "full_sharpe":0.6531,
     "full_max_dd":-0.23264,
-    "oos_sharpe":-0.1837,
+    "oos_sharpe":-0.129,
     "oos_max_dd":-0.23264,
-    "oos_cagr":-0.034012
+    "oos_cagr":-0.026748
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":25,
+      "vol_target":null,
+      "cost_bp":8
+    },
+    "full_sharpe":0.4458,
+    "full_max_dd":-0.307872,
+    "oos_sharpe":-0.207,
+    "oos_max_dd":-0.307872,
+    "oos_cagr":-0.067027
   },
   {
     "asset":"USDRUBF",
@@ -1235,25 +1222,24 @@
       "slow":200,
       "cost_bp":8
     },
-    "full_sharpe":0.0478,
+    "full_sharpe":0.0648,
     "full_max_dd":-0.312229,
-    "oos_sharpe":-0.2692,
+    "oos_sharpe":-0.2141,
     "oos_max_dd":-0.194375,
-    "oos_cagr":-0.04523
+    "oos_cagr":-0.038017
   },
   {
     "asset":"IMOEXF",
-    "family":"momentum",
+    "family":"donchian",
     "params":{
-      "lookback":10,
-      "vol_target":null,
+      "window":20,
       "cost_bp":8
     },
-    "full_sharpe":-0.3847,
-    "full_max_dd":-0.475308,
-    "oos_sharpe":-0.3384,
-    "oos_max_dd":-0.197595,
-    "oos_cagr":-0.09438
+    "full_sharpe":0.7579,
+    "full_max_dd":-0.246166,
+    "oos_sharpe":-0.2275,
+    "oos_max_dd":-0.246166,
+    "oos_cagr":-0.071293
   },
   {
     "asset":"CNYRUBF",
@@ -1263,11 +1249,11 @@
       "vol_target":0.08,
       "cost_bp":8
     },
-    "full_sharpe":0.8325,
+    "full_sharpe":0.8461,
     "full_max_dd":-0.135071,
-    "oos_sharpe":-0.3835,
+    "oos_sharpe":-0.3344,
     "oos_max_dd":-0.135071,
-    "oos_cagr":-0.037401
+    "oos_cagr":-0.033185
   },
   {
     "asset":"CNYRUBF",
@@ -1277,11 +1263,11 @@
       "vol_target":0.1,
       "cost_bp":8
     },
-    "full_sharpe":0.8282,
+    "full_sharpe":0.8423,
     "full_max_dd":-0.16521,
-    "oos_sharpe":-0.4411,
+    "oos_sharpe":-0.3899,
     "oos_max_dd":-0.16521,
-    "oos_cagr":-0.051689
+    "oos_cagr":-0.046483
   },
   {
     "asset":"CNYRUBF",
@@ -1291,53 +1277,25 @@
       "vol_target":0.12,
       "cost_bp":8
     },
-    "full_sharpe":0.8331,
+    "full_sharpe":0.8482,
     "full_max_dd":-0.195528,
-    "oos_sharpe":-0.4844,
+    "oos_sharpe":-0.4307,
     "oos_max_dd":-0.195528,
-    "oos_cagr":-0.064845
+    "oos_cagr":-0.058675
   },
   {
     "asset":"IMOEXF",
     "family":"momentum",
     "params":{
       "lookback":10,
-      "vol_target":0.12,
+      "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":-0.3625,
-    "full_max_dd":-0.299736,
-    "oos_sharpe":-0.5277,
-    "oos_max_dd":-0.150331,
-    "oos_cagr":-0.070721
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":10,
-      "vol_target":0.08,
-      "cost_bp":8
-    },
-    "full_sharpe":-0.3868,
-    "full_max_dd":-0.214299,
-    "oos_sharpe":-0.5781,
-    "oos_max_dd":-0.107197,
-    "oos_cagr":-0.052339
-  },
-  {
-    "asset":"IMOEXF",
-    "family":"momentum",
-    "params":{
-      "lookback":10,
-      "vol_target":0.1,
-      "cost_bp":8
-    },
-    "full_sharpe":-0.3877,
-    "full_max_dd":-0.261622,
-    "oos_sharpe":-0.5859,
-    "oos_max_dd":-0.133118,
-    "oos_cagr":-0.066668
+    "full_sharpe":-0.4078,
+    "full_max_dd":-0.475308,
+    "oos_sharpe":-0.5702,
+    "oos_max_dd":-0.190402,
+    "oos_cagr":-0.138619
   },
   {
     "asset":"CNYRUBF",
@@ -1347,11 +1305,53 @@
       "vol_target":null,
       "cost_bp":8
     },
-    "full_sharpe":0.7844,
+    "full_sharpe":0.7977,
     "full_max_dd":-0.266434,
-    "oos_sharpe":-0.6911,
+    "oos_sharpe":-0.6405,
     "oos_max_dd":-0.266434,
-    "oos_cagr":-0.104677
+    "oos_cagr":-0.098112
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":10,
+      "vol_target":0.12,
+      "cost_bp":8
+    },
+    "full_sharpe":-0.3766,
+    "full_max_dd":-0.299736,
+    "oos_sharpe":-0.6669,
+    "oos_max_dd":-0.147821,
+    "oos_cagr":-0.086445
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":10,
+      "vol_target":0.08,
+      "cost_bp":8
+    },
+    "full_sharpe":-0.4003,
+    "full_max_dd":-0.214299,
+    "oos_sharpe":-0.7116,
+    "oos_max_dd":-0.105441,
+    "oos_cagr":-0.063067
+  },
+  {
+    "asset":"IMOEXF",
+    "family":"momentum",
+    "params":{
+      "lookback":10,
+      "vol_target":0.1,
+      "cost_bp":8
+    },
+    "full_sharpe":-0.4014,
+    "full_max_dd":-0.261622,
+    "oos_sharpe":-0.7198,
+    "oos_max_dd":-0.130985,
+    "oos_cagr":-0.079852
   },
   {
     "asset":"USDRUBF",
@@ -1360,11 +1360,11 @@
       "window":55,
       "cost_bp":8
     },
-    "full_sharpe":0.4943,
+    "full_sharpe":0.5102,
     "full_max_dd":-0.293107,
-    "oos_sharpe":-0.9975,
+    "oos_sharpe":-0.9397,
     "oos_max_dd":-0.293107,
-    "oos_cagr":-0.135946
+    "oos_cagr":-0.129156
   },
   {
     "asset":"CNYRUBF",
@@ -1374,11 +1374,11 @@
       "slow":120,
       "cost_bp":8
     },
-    "full_sharpe":-0.2663,
+    "full_sharpe":-0.2514,
     "full_max_dd":-0.409399,
-    "oos_sharpe":-0.9996,
+    "oos_sharpe":-0.9477,
     "oos_max_dd":-0.295305,
-    "oos_cagr":-0.142956
+    "oos_cagr":-0.136557
   },
   {
     "asset":"USDRUBF",
@@ -1388,11 +1388,11 @@
       "slow":120,
       "cost_bp":8
     },
-    "full_sharpe":0.2354,
+    "full_sharpe":0.2511,
     "full_max_dd":-0.406264,
-    "oos_sharpe":-1.0094,
+    "oos_sharpe":-0.9515,
     "oos_max_dd":-0.289953,
-    "oos_cagr":-0.137204
+    "oos_cagr":-0.13042
   },
   {
     "asset":"CNYRUBF",
@@ -1401,11 +1401,11 @@
       "window":55,
       "cost_bp":8
     },
-    "full_sharpe":0.3211,
+    "full_sharpe":0.3351,
     "full_max_dd":-0.310079,
-    "oos_sharpe":-1.0288,
+    "oos_sharpe":-0.977,
     "oos_max_dd":-0.310079,
-    "oos_cagr":-0.14701
+    "oos_cagr":-0.140629
   },
   {
     "asset":"CNYRUBF",
@@ -1415,10 +1415,10 @@
       "slow":200,
       "cost_bp":8
     },
-    "full_sharpe":-0.7404,
+    "full_sharpe":-0.724,
     "full_max_dd":-0.555469,
-    "oos_sharpe":-2.0124,
+    "oos_sharpe":-1.9565,
     "oos_max_dd":-0.380658,
-    "oos_cagr":-0.258131
+    "oos_cagr":-0.252268
   }
 ]
